@@ -1,2 +1,0 @@
-# picBed
-Image_Hosting
